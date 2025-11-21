@@ -31,7 +31,7 @@ Check out my portfolio of Data Science projects on [GitHub @Arun709](https://git
   <img src="https://img.icons8.com/nolan/48/sql.png" title="SQL"/>
   <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
   <img src="https://admin.ducatindia.com/tutorial/technology/1733296051163Pandas.png" width="48" title="Pandas"/>
-  <img src="https://numpy.org/images/logo.svg" title="NumPy"/>
+  <img src="https://numpy.org/images/logo.svg" width="48" title="NumPy"/>
   <img src="https://matplotlib.org/_static/logo_dark.svg" width="48" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" title="Seaborn"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
@@ -40,11 +40,11 @@ Check out my portfolio of Data Science projects on [GitHub @Arun709](https://git
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" title="Scikit-learn"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
-  <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" title="PyTorch"/>
+  <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" width="48" title="PyTorch"/>
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="48" title="Plotly"/>
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="GenAI"/>
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Deep Learning"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/9831/9831334.png" title="NLP"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/9831/9831334.png" width="48" title="NLP"/>
 </p>
 
 **Skills:** Python • SQL • sklearn • pandas • numpy • matplotlib • seaborn • Deep Learning • NLP • GenAI • Docker • TensorFlow • PyTorch • Plotly • Git • Linux • Jupyter
