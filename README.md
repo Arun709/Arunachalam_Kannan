@@ -29,7 +29,7 @@ Check out my portfolio of Data Science projects on [GitHub @Arun709](https://git
 <p>
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter"/>
+  <img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" title="Jupyter"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib"/>
