@@ -27,40 +27,46 @@ Check out my portfolio of Data Science projects on [GitHub @Arun709](https://git
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" title="sklearn" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" title="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/plotly/dash-docs/master/images/logos/logo.png" title="Plotly" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" title="GenAI"/>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="Deep Learning"/>
+  <img src="https://img.icons8.com/color/48/000000/literature.png" title="NLP"/>
 </p>
+
 **Skills:** Python • SQL • sklearn • pandas • numpy • matplotlib • seaborn • Deep Learning • NLP • GenAI • Docker • TensorFlow • PyTorch • Plotly • Git • Linux • Jupyter
+
 
 ---
 
 ### ⚡ IDEs & Tools
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/google-colab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/notion.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" title="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/notion.png" title="Notion"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" title="Windows"/>
 </p>
 
----
-
-### 💻 Workspace/Spec
 - Windows fan—love working with VS Code, Jupyter, Colab, and PyCharm!
+
 
 ---
 
