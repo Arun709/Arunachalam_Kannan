@@ -28,41 +28,40 @@ Check out my portfolio of Data Science projects on [GitHub @Arun709](https://git
 
 <p>
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-  <img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" title="Jupyter"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" width="48"/>
+  <img src="https://img.icons8.com/nolan/48/sql.png" title="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg" width="48" title="Pandas"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-numpy-coding-and-development-soft-fill-soft-fill-juicy-fish.png" title="NumPy"/>
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/matplotlib.svg" width="48" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" title="Seaborn"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" title="sklearn" width="48"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/scikitlearn.svg" width="48" title="Scikit-learn"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/plotly/dash-docs/master/images/logos/logo.png" title="Plotly" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" title="GenAI"/>
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="Deep Learning"/>
-  <img src="https://img.icons8.com/color/48/000000/literature.png" title="NLP"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="48" title="Plotly"/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="GenAI"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Deep Learning"/>
+  <img src="https://img.icons8.com/ios/48/literature.png" title="NLP"/>
 </p>
 
 **Skills:** Python • SQL • sklearn • pandas • numpy • matplotlib • seaborn • Deep Learning • NLP • GenAI • Docker • TensorFlow • PyTorch • Plotly • Git • Linux • Jupyter
 
 
 ---
-
 ### ⚡ IDEs & Tools
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter"/>
-  <img src="https://img.icons8.com/color/48/000000/google-colab.png" title="Google Colab"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/notion.png" title="Notion"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" title="Windows"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" title="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/notion.png" title="Notion"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows"/>
 </p>
 
 - Windows fan—love working with VS Code, Jupyter, Colab, and PyCharm!
